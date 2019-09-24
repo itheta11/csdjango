@@ -1,4 +1,4 @@
 django
 djangorestframework
 mongoengine
-django-rest-framwork-mongoengine
+django-rest-framework-mongoengine
